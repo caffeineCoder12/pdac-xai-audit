@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "Auditing post-hoc explanations of a multimodal pancreatic cancer survival model"
+title: "pdac-xai-audit: Auditing post-hoc explanations of multimodal pancreatic cancer survival models"
 authors:
   - family-names: Madhuvanthi
     given-names: B
@@ -8,6 +8,13 @@ authors:
   - family-names: Raj
     given-names: Raunit
     affiliation: Vellore Institute of Technology
-version: 1.0.0
-date-released: 2026-11-07
+  - family-names: Jayashree
+    given-names: J
+    affiliation: Vellore Institute of Technology
+  - family-names: Vijayashree
+    given-names: J
+    affiliation: Vellore Institute of Technology
+repository-code: "https://github.com/caffeineCoder12/pdac-xai-audit"
+version: 1.1.0
+date-released: 2026-11-24
 license: MIT
